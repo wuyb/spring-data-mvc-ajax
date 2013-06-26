@@ -1,0 +1,7 @@
+.todo-text {
+    margin-right: 5px;
+}
+
+.todo-completed {
+    color: lightslategray;
+}
